@@ -95,22 +95,3 @@ running an electron instance with hot reloading.
 $ yarn webpack:dev
 $ yarn start:dev 
 ```
-
-## Contact
-[![Together topic badge](https://img.shields.io/badge/Together-Discuss-orange.svg) ](https://together.bunq.com/d/6180-bunq-cli-a-new-unofficial-command-line-tool-for-the-bunq-api/11) [![Telegram chat badge](https://img.shields.io/badge/Telegram-Discuss-blue.svg) ](https://t.me/bunqcommunity) [![Telegram chat badge](https://img.shields.io/badge/Telegram-Announcements-blue.svg) ](https://t.me/bunqdesktop)
-
-We have a public [Telegram chat group ](https://t.me/bunqcommunity) and a topic on [bunq together](https://together.bunq.com/d/5763-bunqdesktop-the-unofficial-free-and-open-source-desktop-application-for-bunq/).
-
-If you just want a notification when a new version is released you can also join the [Telegram updates channel](https://t.me/bunqdesktop).
-
-Feel free to create a new issue for any suggestions, bugs or general ideas you have on Github or 
-contact us through one of the above.
-
-## Contributors ![Contributer count](https://img.shields.io/github/contributors/bunqcommunity/bunqdesktop.svg)
-
-[![](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/images/0)](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/links/0)[![](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/images/1)](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/links/1)[![](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/images/2)](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/links/2)[![](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/images/3)](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/links/3)[![](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/images/4)](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/links/4)[![](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/images/5)](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/links/5)[![](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/images/6)](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/links/6)[![](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/images/7)](https://sourcerer.io/fame/crecket/bunqCommunity/bunqDesktop/links/7)
-
-## License
-Unless otherwise noted, the bunqDesktop source files are distributed under the MIT License found in the [LICENSE](https://github.com/bunqCommunity/bunqDesktop/blob/master/LICENSE) file.
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FbunqCommunity%2FbunqDesktop.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FbunqCommunity%2FbunqDesktop?ref=badge_large)
